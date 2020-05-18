@@ -94,7 +94,7 @@ p {
   background-position: top;
   position: relative;
   margin-top: 50px;
-  overflow: hidden;
+  width:100%;
 }
 
 .bg-img-top, .bg-img-top-2 {
@@ -111,6 +111,7 @@ p {
   background-repeat: no-repeat;
   background-position: bottom;
   margin-bottom: 50px;
+  width:100%;
 }
 
 .box-1, .box-3 {
@@ -225,7 +226,7 @@ p {
 /* Media Query */
 @media(max-width:1023px) {
   .logo {
-    width: 30%;
+    width: 50%;
   }
 
   .title-head {
