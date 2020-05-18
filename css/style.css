@@ -274,7 +274,12 @@ p {
     width: 100%;
     display: block;
   }
-
+.icon-community{
+  margin:auto;
+  position: relative;
+  right:50px;
+  display: block;
+}
   .illustration-des, .illustration2-des, .illustration3-des {
     padding: 20px 0;
     width: 90%;
@@ -289,14 +294,16 @@ p {
     display: block;
     width: 80%;
   }
-
+  .bg-img-top-3 {
+    top: 20px;
+  }
   .bottom-1, .bottom-2 {
     width: 100%;
-    margin: 80px 0;
+    margin: 100px 0;
   }
 
   .get-start-btn {
-    width: 100%;
+    width: 70%;
   }
 
   .bottom-input,.input {
@@ -307,6 +314,5 @@ p {
     position: relative;
     top:20px;
     right:30px;
-
   }
 }
