@@ -225,7 +225,7 @@ p {
 /* Media Query */
 @media(max-width:1023px) {
   .logo {
-    width: 50%;
+    width: 30%;
   }
 
   .title-head {
